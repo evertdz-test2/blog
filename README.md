@@ -10,3 +10,5 @@ Proyecto propuesta de Blog para Gentlers. Dedicado al crecimiento de comunidad d
 -> Características
 -> Deploy Config
 [Documentación]
+
+[Licencias]
